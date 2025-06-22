@@ -1,6 +1,6 @@
 # Tatenda K Chaitwa here:
 # 💫 About Me:
-<br>👀 Welcome  to my space.<br>🌱 I’m currently learning Cybersecurity, Linux, Python, Automation, Data Science,Data analysis, and AI.<br>💞️ I created cybersecurity portfolio. Please find it [here](https://github.com/Alucarddacoder/CyberSecurity_portfolio).<br>✅ Google cybersecurity course among other certifications.<br>🎯 Targeting:<br>    Google Cloud Cybersecurity Certificate<br>    CompTIA A+<br>    CompTIA Network+<br>    CompTIA Security+<br>    <br>
+<br>👀 Welcome  to my space.<br>🌱 I’m currently learning Cybersecurity,Linux, Python, Automation, Data Science,Data analysis, and AI.<br>💞️ I created cybersecurity portfolio. Please find it [here](https://github.com/Alucarddacoder/CyberSecurity_portfolio).<br>✅ Google cybersecurity course among other certifications.<br>🎯 Targeting:<br>    Google Cloud Cybersecurity Certificate<br>    CompTIA A+<br>    CompTIA Network+<br>    CompTIA Security+<br>    <br>
 
 
 ## 🌐 Socials:
